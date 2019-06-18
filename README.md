@@ -1,7 +1,8 @@
 # Mandelbrot
 Programmed a real-time Mandelbrot generator
-![alt text](http://url/to/Mandelbrot.jpg)
+
 ![alt text](https://github.com/christopher1027/Mandelbrot/blob/master/Mandelbrot.jpg)
+![alt text](https://github.com/christopher1027/Mandelbrot/blob/master/altera_cyclone_fpga.jpg)
 
 Theory
 The famous Mandelbrot set is a set of points in the complex plane.
