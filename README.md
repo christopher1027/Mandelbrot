@@ -1,10 +1,13 @@
 # Mandelbrot
 Programmed a real-time Mandelbrot generator in SystemVerilog using an Altera cyclone FPGA
 
+Example of the first frame displayed of the mandelbrot set:
 ![alt text](https://github.com/christopher1027/Mandelbrot/blob/master/Mandelbrot.jpg)
+
+The FPGA that I used:
 ![alt text](https://github.com/christopher1027/Mandelbrot/blob/master/altera_cyclone_fpga.jpg)
 
-Theory
+Theory:
 The famous Mandelbrot set is a set of points in the complex plane.
 
 The function is
