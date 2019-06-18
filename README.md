@@ -17,5 +17,8 @@ with the initial condition formed by taking the coordinates in the complex plane
 C_{0} = x + iy
 
 FPGA Implementation:
-Used an Altera_cyclone for setting up the FPGA
-The Verilog code creates the logic necessary to implement the Mandelbrot function for each pixel and to display them to a computer screen via a vga cable.
+Used an Altera_cyclone FPGA and SystemVerilog which is is a hardware description and hardware verification language for setting up the hardware design of the project
+
+Programming:
+Programmed in c to create the logic necessary to implement the Mandelbrot function.
+The mandelbrot set is a set a points in the complex plane which is mapped to each pixel to display them to a computer screen.
