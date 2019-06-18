@@ -1,5 +1,5 @@
 # Mandelbrot
-Programmed a real-time Mandelbrot generator
+Programmed a real-time Mandelbrot generator in SystemVerilog using an Altera cyclone FPGA
 
 ![alt text](https://github.com/christopher1027/Mandelbrot/blob/master/Mandelbrot.jpg)
 ![alt text](https://github.com/christopher1027/Mandelbrot/blob/master/altera_cyclone_fpga.jpg)
